@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777312543699",
+    "project_id": "e-book-dd2a6",
+    "storage_bucket": "e-book-dd2a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777312543699:android:3453e01c5b2388b7a9c526",
+        "android_client_info": {
+          "package_name": "com.example.lithabit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk8WB2OXUM2yv7IItN2Zx0K0Jos8WiuYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
